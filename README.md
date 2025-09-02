@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anish Nakhale</h1>
-<h3 align="center">A passionate MLOps Engineer and Web Developer from India</h3>
+<h3 align="center">A passionate MLOps Engineer, exploring similar field like Agentic AI and Generative AI and looking forward in learning Deep Learning and Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firstp0p&label=Profile%20views&color=0e75b6&style=flat" alt="firstp0p" /> </p>
 
